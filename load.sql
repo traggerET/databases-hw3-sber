@@ -1,0 +1,1 @@
+INSERT INTO myt(name) VALUES (rand_str(100));
